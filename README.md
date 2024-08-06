@@ -1,3 +1,8 @@
+# Images of BiteBuddy Food Ordering App 
+![Homepage](https://github.com/user-attachments/assets/9677d5c2-0133-4c1c-8526-aabc0d2a72c4)
+![Login+page](https://github.com/user-attachments/assets/2417cce5-8b53-4436-af7c-495e5ae36549)
+![CartImage](https://github.com/user-attachments/assets/74c4058c-a652-4802-9452-e19f940c23ea)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
